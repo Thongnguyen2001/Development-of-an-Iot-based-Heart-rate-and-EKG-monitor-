@@ -6,6 +6,7 @@ Wearable Holter for Home User - Overall Appearance
 # The main circuit design using STM32F103C8T6 microprocessor 
 Altium Designer
 ![image](https://github.com/discoverycomputer/Development-of-an-Iot-based-Heart-rate-and-EKG-monitor-/assets/140111334/5d98eea8-b1b2-4eb5-a3af-44765aab99c6)
+
 Complete ECG circuit
 ![image](https://github.com/discoverycomputer/Development-of-an-Iot-based-Heart-rate-and-EKG-monitor-/assets/140111334/d43671db-ba81-42b6-b1a4-67e8c9a53b61)
 The GUI to process the heart signal and heart beat detected from the circuit (Qt Creator)
