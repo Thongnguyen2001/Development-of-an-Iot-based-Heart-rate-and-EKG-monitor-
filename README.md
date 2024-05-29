@@ -15,3 +15,6 @@ The GUI to process the heart signal and heart beat detected from the circuit (Qt
 ![image](https://github.com/discoverycomputer/Development-of-an-Iot-based-Heart-rate-and-EKG-monitor-/assets/140111334/1a06e796-c9f2-4446-a101-6c03966563ad)
 The flow was sketched in this block diagram for the overview of the device. First, the device uses 3-electrode placement to conduct 1 lead ECG acquisition. The MCU is responsible for ADC and DAC main processing units. The calculated heart-beat is displayed on OLED, the ECG signal is transmitted to the GUI application by using UART. An integration of client/sever from cloud database. To qualify this feature, the patient information is then saved to csv format locally for further management.
 # Result
+
+https://github.com/discoverycomputer/Development-of-an-Iot-based-Heart-rate-and-EKG-monitor-/assets/140111334/0ebec872-5587-40cc-9684-ccc5159444cc
+
